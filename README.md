@@ -1,4 +1,5 @@
 # 2048-game
+Implementation of the 2048-game on Kotlin
 
 This project is based on http://otfried.org/courses/cs109/project-2048.html
 
